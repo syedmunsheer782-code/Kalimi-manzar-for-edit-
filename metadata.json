@@ -1,0 +1,10 @@
+{
+  "name": "Kalimi Manzar",
+  "description": "Offline 4K video and photo editor PWA for Android and iOS with monochrome pro workspace, 100 YouTube text effects, CapCut-style transitions, keyframes, masking, spot removal PNG export, voice noise reduction, and .kmz project support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
